@@ -12,6 +12,9 @@ GlobalMoney payment plugin
 == Description ==
 GlobalMoney payment plugin
 
+== Screenshots ==
+1. Plugin settings
+
 == Installation ==
 1. Upload the entire GlobalMoney folder to the /wp-content/plugins/ directory.
 2. Activate the plugin through the \'Plugins\' menu in WordPress.
